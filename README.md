@@ -8,7 +8,7 @@ Recommended repository name: `route-delay-stay-alert`
 
 ## Domain candidates
 
-First candidate: `delaystay.jp`
+Confirmed domain: `delaystay.jp`
 
 Other candidates:
 
