@@ -8,13 +8,13 @@ Recommended repository name: `route-delay-stay-alert`
 
 ## Domain candidates
 
-Confirmed domain: `delaystay.jp`
+Confirmed domain: `https://syunnjack.github.io/route-delay-stay-alert/`
 
 Other candidates:
 
-- `delaystay.jp`
+- `https://syunnjack.github.io/route-delay-stay-alert/`
 - `routealert.jp`
-- `busdelaystay.jp`
+- `bushttps://syunnjack.github.io/route-delay-stay-alert/`
 - `arrivalspot.jp`
 
 ## Concept
