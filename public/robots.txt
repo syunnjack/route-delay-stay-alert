@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://route-delay-stay-alert.vercel.app/sitemap.xml
+Sitemap: https://delaystay.jp/sitemap.xml
