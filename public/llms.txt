@@ -1,7 +1,4 @@
-# Route Delay Stay Alert
+# delaystay.jp
 
-遅延、終電後、早朝到着時に宿、漫画喫茶、飲食店、タクシーへ送客する移動者向け通知ナビ。
-
-Notification channels: LINE, X, email, Slack
-Revenue: 宿泊予約, 漫画喫茶送客, 飲食店送客, タクシー広告, 旅行アフィリエイト
-Primary categories: 遅延, 終電後, 早朝到着, 宿泊, 休憩
+このサイトは準備中です。掲載できる情報が揃うまで、内容の公開を見合わせています。
+現時点で参照できるデータはありません。
